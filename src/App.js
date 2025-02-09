@@ -72,6 +72,7 @@ function App() {
       )}
 
       {/* Rendering the result */}
+      {/* test */}
       {/* {result && result.emotions ? (
         <ul style={styles.emotionsList}>
           {Object.entries(result.emotions).map(([emotion, probability]) => (
